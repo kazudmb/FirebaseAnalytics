@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991499638231",
+    "project_id": "fir-crashlytics-61f37",
+    "storage_bucket": "fir-crashlytics-61f37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991499638231:android:796714f1fa3ad60f762792",
+        "android_client_info": {
+          "package_name": "com.example.firebase_crashytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991499638231-cj2b4g945ouf17v078t4dqf0ph07nglr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnCep9sgzDNNGESDDDUkdWOf0D0QFT-1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991499638231-cj2b4g945ouf17v078t4dqf0ph07nglr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
